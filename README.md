@@ -1,3 +1,5 @@
+<img src="https://github.com/FelpsDevilla/ReadBear_Client/blob/master/public/logo.png" alt="MDN" width="300px"/>
+
 # ReadBear Client
 
 The ReadBear is a open source and self host solution to store and read books, HQs and mangas.
